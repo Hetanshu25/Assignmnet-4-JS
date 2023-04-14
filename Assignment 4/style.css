@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #c0e2f1;
+    margin: 0;
+  }
+  
+  h1 {
+    color: #f33e3e;
+    text-align: center;
+    margin-top: 49px;
+  }
+  
+  form {
+    text-align: center;
+    margin-top: 19px;
+  }
+  
+  label {
+    font-size: 20px;
+  }
+  
+  /* Adding color and font size to Text */
+
+  input[type="text"] {
+    font-size: 17px;
+    padding: 7px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+/* Adding Back Color, Color and other attributes button*/
+
+  button[type="submit"] {
+    font-size: 17px;
+    background-color: #f33e3e;
+    color: white;
+    padding: 7px 15px;
+    border: groove;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+/* Weather Info*/
+
+  .weather-info {
+    font-size: 24px;
+    margin-top: 20px;
+    text-align: center;
+  }
